@@ -1,3 +1,20 @@
+# IntelliJ project files
+*/.idea/
+.idea
+*.iml
+*/*.iml
+# 测试包
+*/src/test/
+
+# 编译目录
+out
+*/out/
+gen
+*/gen/
+target
+*/target/
+/user-profile-analysis.iml
+
 # Compiled class file
 *.class
 
